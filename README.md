@@ -1,2 +1,2 @@
 # Serpiente-Code
-codigo de serpiente
+codigo de serpiente (Snake) completo
